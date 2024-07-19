@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new skills.
 - 🌱 I’m currently learning python and financial modelling.
 - 💞️ I’m looking to collaborate on data science projects.
-- 📫 How to reach me my email or LinkedIn.
+- 📫 You can reach me through my email or LinkedIn.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like gardening.
 
